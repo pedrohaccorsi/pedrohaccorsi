@@ -1,21 +1,14 @@
 ### Hi, I'm Pedro!
 
-<p>
-  <em> 
-    <a> I am a back-end developer who is always experimenting and learning new technologies and approaches to write good, clean and readable code.</a>
-  </em>
-</p>
+I am a back-end developer who is always experimenting and learning new technologies and approaches to write good, clean and readable code.</a>
  
-<p align="left">
-  For languages, my greatest strength is in <strong> ABAP </strong>, however I am learning way around <strong> Java Spring Boot </strong> and <strong> ReactJS </string>. I can also work with <strong> C </strong> and <strong> C++ </strong>. 
-  For databases, I am most familiar with <strong> PostgreSQL </strong>. My plans are to study <strong> DynamoDB </strong> in the near future.
-  For automation and deployment, I am learning <strong> Jenkins </strong> and <strong> Docker </strong>.
-</p>
+For languages, my greatest strength is in <strong> ABAP</strong>, however I am learning way around **Java Spring Boot** and **ReactJS**. I can also work with **C**  and *C++*.
 
+For databases, I am most familiar with **PostgreSQL**. My plans are to study **DynamoDB** in the near future.
 
-<p align="left">
- Find me:
-</p>
+For automation and deployment, I am learning **Jenkins** and **Docker**.
+
+Find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaccorsi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/pedrohaccorsi)
