@@ -2,7 +2,7 @@
 
 <p>
   <em> 
-    I am a back-end developer who is always experimenting and learning new technologies and approaches to write good, clean and readable code.</a>
+    <a> I am a back-end developer who is always experimenting and learning new technologies and approaches to write good, clean and readable code.</a>
   </em>
 </p>
  
